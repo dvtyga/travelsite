@@ -475,7 +475,7 @@ a {
 }
 
 .large-hero__image {
-        display: block;
+        display: block; 
     }
 
 .large-hero__text-content {
